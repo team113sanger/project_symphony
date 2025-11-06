@@ -1,0 +1,6 @@
+[submodule "SYM101"]
+	path = SYM101
+	url = git@github.com:stefanpeidli/SYM101.git
+[submodule "sym101_project"]
+	path = sym101_project
+	url = git@gitlab.internal.sanger.ac.uk:team113_projects/fa15_projects/sym101_project.git
