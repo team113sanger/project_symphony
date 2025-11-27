@@ -1,3 +1,6 @@
 [submodule "SYM_101_Fernanda_Arriaga_González"]
 	path = SYM_101_Fernanda_Arriaga_González
 	url = git@github.com:team113sanger/SYM_101_Incucyte_data_analysis_FerArriaga.git
+[submodule "SYM_101_Sunay_Usluer"]
+	path = SYM_101_Sunay_Usluer
+	url = git@github.com:team113sanger/SYM_101_Sunay_Usluer.git
