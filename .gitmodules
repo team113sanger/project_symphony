@@ -4,3 +4,9 @@
 [submodule "SYM_101_Sunay_Usluer"]
 	path = SYM_101_Sunay_Usluer
 	url = git@github.com:team113sanger/SYM_101_Sunay_Usluer.git
+[submodule "SYM_101_Stefan_Peidli_Screen_Analysis"]
+	path = SYM_101_Stefan_Peidli_Screen_Analysis
+	url = git@github.com:stefanpeidli/symphony-101.git
+[submodule "SYM_101_Stefan_Peidli_10X_Analysis"]
+	path = SYM_101_Stefan_Peidli_10X_Analysis
+	url = git@github.com:stefanpeidli/symphony-10x1.git
