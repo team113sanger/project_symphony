@@ -51,6 +51,11 @@ The sub-analyses, the authors who performed them, and the repositories they corr
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SYM_101_Sunay_Usluer)[![DOI](https://zenodo.org/badge/TBC.svg)](TBC)
   (Sunay Usluer, su1@sanger.ac.uk — submodule `SYM_101_Sunay_Usluer`)
 
+- **Cas13d collateral activity (SYM10X0): perturb-seq in A549 and NCI-H1299 testing for target-independent
+  transcriptional effects — pseudobulk guide correlations, cell-cycle-stratified DE, GSEA and RP-module controls.**
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/sym101_cas13_collateral_activity_analysis)[![DOI](https://zenodo.org/badge/1461365821.svg)](https://doi.org/10.5281/zenodo.24310447)
+  (submodule `SYM_101_Cas13_Collateral_Activity`)
+
 Clone everything, including the sub-analyses, with:
 
 ```

@@ -10,3 +10,6 @@
 [submodule "SYM_101_Stefan_Peidli_10X_Analysis"]
 	path = SYM_101_Stefan_Peidli_10X_Analysis
 	url = git@github.com:stefanpeidli/symphony-10x1.git
+[submodule "SYM_101_Cas13_Collateral_Activity"]
+	path = SYM_101_Cas13_Collateral_Activity
+	url = git@github.com:team113sanger/sym101_cas13_collateral_activity_analysis.git
