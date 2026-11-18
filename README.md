@@ -4,9 +4,15 @@
 
 This repository is the central landing page for the sub-analyses supporting the manuscript:
 
-> **_Arriaga-González F.G.\*, Joseph N.A.\*, Peidli S.\*, Aspri D., Ilott J., Billington J., Yankova E., Eleftheriou M., Evans S., Harle V., Olvera-León R., Fagundes R., Sekimoto Matsuyama L.S.A., Huber W., Usluer S.†, Adams D.J.†, Tzelepis K.† — "CRISPR–Cas13d Functional Genomics Reveals RNA Dependencies in Lung Cancer"_**
->
-> \*equal contribution · †corresponding authors
+> **_Arriaga-González, F.G., Joseph, N.A., Peidli, S. et al 2026 - Uncovering RNA Dependencies in Lung Cancer through CRISPR–Cas13d Functional Genomics_**
+
+<details>
+<summary>Full author list</summary>
+
+Fernanda G. Arriaga-González\*, Nithila A. Joseph\*, Stefan Peidli\*, Demetrios Aspris, Josephine Ilott, Jamie Billington, Eliza Yankova, Maria Eleftheriou, Siân Evans, Victoria Harle, Rebeca Olvera-León, Rafaela Fagundes, Larissa Satiko Alcantara Sekimoto Matsuyama, Wolfgang Huber, Sunay Usluer†, David J. Adams†, Konstantinos Tzelepis†
+
+\*equal contribution · †corresponding authors
+</details>
 
 ## Study summary
 
@@ -104,4 +110,4 @@ Analysis contacts:
 
 - Stefan Peidli (<sp41@sanger.ac.uk>)
 - Fernanda Arriaga González (<fa15@sanger.ac.uk>)
-- J. Billington (<jb63@sanger.ac.uk>)
+- Jamie Billington (<jb63@sanger.ac.uk>)
