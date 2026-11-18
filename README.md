@@ -1,5 +1,7 @@
 # Uncovering RNA Dependencies in Lung Cancer through CRISPR–Cas13d Functional Genomics
 
+[![DOI](https://zenodo.org/badge/1034340540.svg)](https://doi.org/10.5281/zenodo.24337798)
+
 This repository is the central landing page for the sub-analyses supporting the manuscript:
 
 > **_Arriaga-González F.G.\*, Joseph N.A.\*, Peidli S.\*, Aspri D., Ilott J., Billington J., Yankova E., Eleftheriou M., Evans S., Harle V., Olvera-León R., Fagundes R., Sekimoto Matsuyama L.S.A., Huber W., Usluer S.†, Adams D.J.†, Tzelepis K.† — "CRISPR–Cas13d Functional Genomics Reveals RNA Dependencies in Lung Cancer"_**
@@ -43,12 +45,12 @@ The sub-analyses, the authors who performed them, and the repositories they corr
 - **Arrayed live-cell growth assays: Incucyte green-object and confluence analysis across A549, NCI-H1299 and
   NCI-H1975, including essential vs non-essential comparisons and guide-level barplots** — Figure 3,
   Supplementary Figure 3.
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SYM_101_Incucyte_data_analysis_FerArriaga)[![DOI](https://zenodo.org/badge/971292322.svg)](https://doi.org/10.5281/zenodo.15304185)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SYM_101_Incucyte_data_analysis_FerArriaga)[![DOI](https://zenodo.org/badge/1105434607.svg)](https://doi.org/10.5281/zenodo.24338160)
   (Fernanda Arriaga González, fa15@sanger.ac.uk — submodule `SYM_101_Fernanda_Arriaga_González`)
 
 - **Symphony library design, Cas13d activity tests, TRACERx tumour vs normal expression analysis, and cell
   cycle / CellTrace assays** — Figures 1a, 3e, 5a, 5f, Supplementary Figures 1 and 5.
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SYM_101_Sunay_Usluer)[![DOI](https://zenodo.org/badge/TBC.svg)](TBC)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SYM_101_Sunay_Usluer)[![DOI](https://zenodo.org/badge/1018557085.svg)](https://doi.org/10.5281/zenodo.24338199)
   (Sunay Usluer, su1@sanger.ac.uk — submodule `SYM_101_Sunay_Usluer`)
 
 - **Cas13d collateral activity (SYM10X0): perturb-seq in A549 and NCI-H1299 testing for target-independent
@@ -102,3 +104,4 @@ Analysis contacts:
 
 - Stefan Peidli (<sp41@sanger.ac.uk>)
 - Fernanda Arriaga González (<fa15@sanger.ac.uk>)
+- J. Billington (<jb63@sanger.ac.uk>)
