@@ -38,7 +38,7 @@ University of Cambridge). Each sub-analysis repository linked below carries its 
 
 The sub-analyses of the project, the authors who performed them, and the repositories they correspond to are:
 
-- Pooled Cas13d screen (SYM101) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stefanpeidli/symphony-101)[![DOI](https://zenodo.org/badge/TBC.svg)](TBC) (sp41@sanger.ac.uk)
+- Pooled Cas13d screen (SYM101) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/Sym101_screens)[![DOI](https://zenodo.org/badge/TBC.svg)](TBC) (sp41@sanger.ac.uk)
   - Guide count generation and screen QC — Figure 1c, Supplementary Figure 2
   - MAGeCK MLE essentiality calling — Figures 1d–1f, Supplementary Figures 2b–2c, 3a
   - Cas9/DepMap benchmarking and copy-number analysis — Figure 2
