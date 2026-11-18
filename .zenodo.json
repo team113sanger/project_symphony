@@ -5,12 +5,8 @@
   "license": "agpl-3.0-only",
   "creators": [
     {
-      "name": "Arriaga-Gonzalez, Fernanda G.",
-      "affiliation": "Wellcome Sanger Institute, Cambridge, UK"
-    },
-    {
       "name": "Peidli, Stefan",
-      "affiliation": "Open Targets, Wellcome Genome Campus, Cambridge, UK"
+      "affiliation": "European Molecular Biology Laboratory, Heidelberg, Germany"
     },
     {
       "name": "Billington, Jamie",
@@ -21,12 +17,12 @@
       "affiliation": "Wellcome Sanger Institute, Cambridge, UK"
     },
     {
-      "name": "Adams, David J.",
+      "name": "Ilott, Josephine",
       "affiliation": "Wellcome Sanger Institute, Cambridge, UK"
     },
     {
-      "name": "Tzelepis, Konstantinos",
-      "affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK"
+      "name": "Arriaga-Gonzalez, Fernanda G.",
+      "affiliation": "Wellcome Sanger Institute, Cambridge, UK"
     }
   ],
   "keywords": [
