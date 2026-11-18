@@ -36,33 +36,34 @@ University of Cambridge). Each sub-analysis repository linked below carries its 
 
 ## Project overview
 
-The sub-analyses, the authors who performed them, and the repositories they correspond to are:
+The sub-analyses of the project, the authors who performed them, and the repositories they correspond to are:
 
-- **Pooled Cas13d screen (SYM101): guide count generation, QC, MAGeCK MLE, Cas9/DepMap benchmarking and
-  copy-number analysis** — Figures 1–2, Supplementary Figures 2–3.
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stefanpeidli/symphony-101)[![DOI](https://zenodo.org/badge/932059905.svg)](TBC)
-  (Stefan Peidli, sp41@sanger.ac.uk — submodule `SYM_101_Stefan_Peidli_Screen_Analysis`)
+- Pooled Cas13d screen (SYM101) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stefanpeidli/symphony-101)[![DOI](https://zenodo.org/badge/TBC.svg)](TBC) (sp41@sanger.ac.uk)
+  - Guide count generation and screen QC — Figure 1c, Supplementary Figure 2
+  - MAGeCK MLE essentiality calling — Figures 1d–1f, Supplementary Figures 2b–2c, 3a
+  - Cas9/DepMap benchmarking and copy-number analysis — Figure 2
+  - Submodule `SYM_101_Stefan_Peidli_Screen_Analysis`
 
-- **Single-cell CaRPool-Seq screen (SYM10X1): cellranger processing, guide assignment, SNP demultiplexing,
-  differential expression, GSEA and clustering** — Figures 4–5b, Supplementary Figure 4.
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stefanpeidli/symphony-10x1)[![DOI](https://zenodo.org/badge/TBC.svg)](TBC)
-  (Stefan Peidli, sp41@sanger.ac.uk — submodule `SYM_101_Stefan_Peidli_10X_Analysis`)
+- Single-cell CaRPool-Seq screen (SYM10X1) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stefanpeidli/symphony-10x1)[![DOI](https://zenodo.org/badge/TBC.svg)](TBC) (sp41@sanger.ac.uk)
+  - cellranger processing, guide assignment and SNP demultiplexing — Supplementary Figures 4a, 4b, 4d, 4f
+  - Differential expression, GSEA and clustering — Figures 4a–4b, 5b, Supplementary Figure 4g
+  - Submodule `SYM_101_Stefan_Peidli_10X_Analysis`
 
-- **Arrayed live-cell growth assays: Incucyte green-object and confluence analysis across A549, NCI-H1299 and
-  NCI-H1975, including essential vs non-essential comparisons and guide-level barplots** — Figure 3,
-  Supplementary Figure 3.
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SYM_101_Incucyte_data_analysis_FerArriaga)[![DOI](https://zenodo.org/badge/1105434607.svg)](https://doi.org/10.5281/zenodo.24338160)
-  (Fernanda Arriaga González, fa15@sanger.ac.uk — submodule `SYM_101_Fernanda_Arriaga_González`)
+- Arrayed live-cell growth assays [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SYM_101_Incucyte_data_analysis_FerArriaga)[![DOI](https://zenodo.org/badge/1105434607.svg)](https://doi.org/10.5281/zenodo.24338160) (fa15@sanger.ac.uk)
+  - Incucyte green-object and confluence analysis in A549, NCI-H1299 and NCI-H1975 — Figures 3b–3d, Supplementary Figures 3b–3c
+  - Essential vs non-essential comparisons and guide-level barplots — Figure 3b
+  - Submodule `SYM_101_Fernanda_Arriaga_González`
 
-- **Symphony library design, Cas13d activity tests, TRACERx tumour vs normal expression analysis, and cell
-  cycle / CellTrace assays** — Figures 1a, 3e, 5a, 5f, Supplementary Figures 1 and 5.
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SYM_101_Sunay_Usluer)[![DOI](https://zenodo.org/badge/1018557085.svg)](https://doi.org/10.5281/zenodo.24338199)
-  (Sunay Usluer, su1@sanger.ac.uk — submodule `SYM_101_Sunay_Usluer`)
+- Symphony library design and Cas13d validation [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SYM_101_Sunay_Usluer)[![DOI](https://zenodo.org/badge/1018557085.svg)](https://doi.org/10.5281/zenodo.24338199) (su1@sanger.ac.uk)
+  - Library design and Cas13d activity tests — Figures 1a, 3a, Supplementary Figure 1
+  - TRACERx tumour vs normal expression analysis — Figures 3e, 5a, Supplementary Figure 3d
+  - Cell cycle, CellTrace and siRNA assays — Figures 5f–5j, Supplementary Figure 5
+  - Submodule `SYM_101_Sunay_Usluer`
 
-- **Cas13d collateral activity (SYM10X0): perturb-seq in A549 and NCI-H1299 testing for target-independent
-  transcriptional effects — pseudobulk guide correlations, cell-cycle-stratified DE, GSEA and RP-module controls.**
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/sym101_cas13_collateral_activity_analysis)[![DOI](https://zenodo.org/badge/1461365821.svg)](https://doi.org/10.5281/zenodo.24310447)
-  (submodule `SYM_101_Cas13_Collateral_Activity`)
+- Cas13d collateral activity (SYM10X0) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/sym101_cas13_collateral_activity_analysis)[![DOI](https://zenodo.org/badge/1461365821.svg)](https://doi.org/10.5281/zenodo.24310447) (jb63@sanger.ac.uk)
+  - Perturb-seq in A549 and NCI-H1299 testing for target-independent transcriptional effects
+  - Pseudobulk guide correlations, cell-cycle-stratified DE, GSEA and RP-module controls — Supplementary Figures 4b–4c
+  - Submodule `SYM_101_Cas13_Collateral_Activity`
 
 Clone everything, including the sub-analyses, with:
 
@@ -100,14 +101,23 @@ unzip sym10x1_bundle.zip
 
 ## Contact
 
-Corresponding authors:
-
-- Konstantinos Tzelepis (<kt404@cam.ac.uk>)
-- David J. Adams (<da1@sanger.ac.uk>)
-- Sunay Usluer (<su1@sanger.ac.uk>)
-
-Analysis contacts:
-
+- Konstantinos Tzelepis (<kt404@cam.ac.uk>) †
+- David J. Adams (<da1@sanger.ac.uk>) †
+- Sunay Usluer (<su1@sanger.ac.uk>) †
+- Fernanda G. Arriaga-González (<fa15@sanger.ac.uk>)
 - Stefan Peidli (<sp41@sanger.ac.uk>)
-- Fernanda Arriaga González (<fa15@sanger.ac.uk>)
 - Jamie Billington (<jb63@sanger.ac.uk>)
+
+† corresponding authors
+
+## Acknowledgements
+
+K.T., E.Y. and S.E. were supported by Wellcome Trust (grants 203151/A/16/Z, 306752/A/23/Z and 306752/Z/23/Z)
+and UKRI Medical Research Council (grant 203151/Z/16/Z). K.T. and M.E. were supported by Leukaemia UK
+(2022/FuF/001). E.Y. was supported by a Leukaemia UK John Goldman Fellowship (2024/JGF/009). This research was
+funded in part by Wellcome, who supported the Cambridge Stem Cell Institute (203151/Z/16/Z). D.J.A., J.B.,
+R.F. and L.S.A.S.M. were supported by Cancer Research UK (C20510/A21717), Wellcome Trust (220540/Z20/A) and the
+Medical Research Council. S.U., F.G.A-G., S.P., D.A., J.I. and N.A.J. were supported by Open Targets (OTAR3083).
+Computations were in part run on EMBL IT Services HPC resources. The authors thank Cath Ennis (Wordomics
+Editing) for assistance with editing the manuscript prior to submission, and Petr Smirnov, Sarah Linker,
+Panos Zalmas and the Open Targets pharma partners for useful discussions.
