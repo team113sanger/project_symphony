@@ -38,13 +38,13 @@ University of Cambridge). Each sub-analysis repository linked below carries its 
 
 The sub-analyses of the project, the authors who performed them, and the repositories they correspond to are:
 
-- Pooled Cas13d screen (SYM101) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/Sym101_screens)[![DOI](https://zenodo.org/badge/TBC.svg)](TBC) (sp41@sanger.ac.uk)
+- Pooled Cas13d screen (SYM101) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/Sym101_screens)[![DOI](https://zenodo.org/badge/1462725290.svg)](https://doi.org/10.5281/zenodo.24341088) (sp41@sanger.ac.uk)
   - Guide count generation and screen QC — Figure 1c, Supplementary Figure 2
   - MAGeCK MLE essentiality calling — Figures 1d–1f, Supplementary Figures 2b–2c, 3a
   - Cas9/DepMap benchmarking and copy-number analysis — Figure 2
   - Submodule `SYM_101_Stefan_Peidli_Screen_Analysis`
 
-- Single-cell CaRPool-Seq screen (SYM10X1) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stefanpeidli/symphony-10x1)[![DOI](https://zenodo.org/badge/TBC.svg)](TBC) (sp41@sanger.ac.uk)
+- Single-cell CaRPool-Seq screen (SYM10X1) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/Sym101_10x_analysis)[![DOI](https://zenodo.org/badge/1462744115.svg)](https://doi.org/10.5281/zenodo.24343721) (sp41@sanger.ac.uk)
   - cellranger processing, guide assignment and SNP demultiplexing — Supplementary Figures 4a, 4b, 4d, 4f
   - Differential expression, GSEA and clustering — Figures 4a–4b, 5b, Supplementary Figure 4g
   - Submodule `SYM_101_Stefan_Peidli_10X_Analysis`

@@ -1,0 +1,39 @@
+{
+  "title": "project_symphony: landing page for the SYM101 CRISPR-Cas13d functional genomics study",
+  "description": "Central landing page and submodule collection for the sub-analyses supporting the manuscript \"Uncovering RNA Dependencies in Lung Cancer through CRISPR-Cas13d Functional Genomics\" (Arriaga-Gonzalez, Joseph, Peidli et al.).",
+  "upload_type": "software",
+  "license": "agpl-3.0-only",
+  "creators": [
+    {
+      "name": "Arriaga-Gonzalez, Fernanda G.",
+      "affiliation": "Wellcome Sanger Institute, Cambridge, UK"
+    },
+    {
+      "name": "Peidli, Stefan",
+      "affiliation": "Open Targets, Wellcome Genome Campus, Cambridge, UK"
+    },
+    {
+      "name": "Billington, Jamie",
+      "affiliation": "Wellcome Sanger Institute, Cambridge, UK"
+    },
+    {
+      "name": "Usluer, Sunay",
+      "affiliation": "Wellcome Sanger Institute, Cambridge, UK"
+    },
+    {
+      "name": "Adams, David J.",
+      "affiliation": "Wellcome Sanger Institute, Cambridge, UK"
+    },
+    {
+      "name": "Tzelepis, Konstantinos",
+      "affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK"
+    }
+  ],
+  "keywords": [
+    "CRISPR-Cas13d",
+    "functional genomics",
+    "lung cancer",
+    "lncRNA",
+    "RNA targeting"
+  ]
+}
