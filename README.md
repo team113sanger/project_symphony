@@ -60,6 +60,11 @@ The sub-analyses of the project, the authors who performed them, and the reposit
   - CellTrace proliferation and cell cycle assays — Figures 5e–5f, Supplementary Figures 5b–5d
   - Submodule `SYM_101_Sunay_Usluer`
 
+- gRNA off-target remapping [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/Sym101_offtargets) (ji5@sanger.ac.uk)
+  - Remapping of all 6,225 Symphony gRNAs to GENCODE v50 protein-coding and lncRNA transcripts (≤2 bp mismatches) — Supplementary Analysis 1
+  - lncRNA gRNA overlap with protein-coding gene bodies; on- vs off-target gRNA fitness comparison and DepMap Chronos check of off-target partners — Supplementary Analysis 1
+  - Submodule `SYM_101_Josephine_Ilott_Offtargets` (to be added once the repository is populated)
+
 - Cas13d collateral activity (SYM10X0) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/sym101_cas13_collateral_activity_analysis)[![DOI](https://zenodo.org/badge/1461365821.svg)](https://doi.org/10.5281/zenodo.24310447) (jb63@sanger.ac.uk)
   - Perturb-seq in A549 and NCI-H1299 testing for target-independent transcriptional effects
   - Pseudobulk guide correlations, cell-cycle-stratified DE, GSEA and RP-module controls — Supplementary Figure 4c
@@ -106,6 +111,7 @@ unzip sym10x1_bundle.zip
 - Sunay Usluer (<su1@sanger.ac.uk>) †
 - Fernanda G. Arriaga-González (<fa15@sanger.ac.uk>)
 - Stefan Peidli (<sp41@sanger.ac.uk>)
+- Josephine Ilott (<ji5@sanger.ac.uk>)
 - Jamie Billington (<jb63@sanger.ac.uk>)
 
 † corresponding authors
